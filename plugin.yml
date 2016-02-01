@@ -1,6 +1,6 @@
 name: ExamplePlugin
 author: AndreTheGamer
 description: Sends message to player
-main: SamplePlugin\Main
+main: ExamplePlugin\Main
 version: 1..0.0
 api: 1.0.0
