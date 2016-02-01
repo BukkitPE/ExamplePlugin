@@ -6,9 +6,9 @@ Example BukkitPE plugin, showing the API
 Here is an example plugin Showing BukkitPE API! 
 
 - [x] BukkitPE plugin API is the same as pocketmine but instead of using
-``` use pocketmine/event/player/PlayerJoinEventt ```
+``` use pocketmine/event/player/PlayerJoinEvent ```
 - [x] You will need to use
-``` use BukkitPE/event/player/PlayerJoinEventt ```
+``` use BukkitPE/event/player/PlayerJoinEvent ```
 
 Our plugin API has alot of features, that's what makes BukkitPE Unique :) 
 
