@@ -1,5 +1,6 @@
 name: ExamplePlugin
-author: AndreTheGamer
+author: BukkitPE Team
+website: www.BukkitPE.net
 description: Sends message to player
 main: ExamplePlugin\Main
 version: 1..0.0
