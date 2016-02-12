@@ -7,7 +7,7 @@ Here is an example plugin Showing BukkitPE API!
 
 BukkitPE plugin API is the same as pocketmine but instead of using
 ``` use pocketmine/```
-[x] You will need to use
+You will need to use
 ``` use BukkitPE/```
 
 Our plugin API has alot of features, that's what makes BukkitPE Unique :) 
