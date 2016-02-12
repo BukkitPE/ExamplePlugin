@@ -6,8 +6,11 @@ Example BukkitPE plugin, showing the API
 Here is an example plugin Showing BukkitPE API! 
 
 BukkitPE plugin API is the same as pocketmine but instead of using
+
 ``` use pocketmine/```
+
 You will need to use
+
 ``` use BukkitPE/```
 
 Our plugin API has alot of features, that's what makes BukkitPE Unique :) 
