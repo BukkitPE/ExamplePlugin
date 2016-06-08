@@ -1,0 +1,19 @@
+#and name and verison and also API is always required
+name: ExamplePlugin
+main: ExamplePlugin.MainClass
+version: "1.0.0"
+api: ["1.0.0"]
+
+load: POSTWORLD
+author: BukkitPE Team
+description: An example plugin showing the API
+website: https://github.com/BukkitPE/ExamplePlugin
+commands:
+  example:
+    description: Example command
+    usage: "/example"
+    permission: exampleplugin.command.example
+permissions:
+  exampleplugin.command.example:
+    description: "Allows the user to run the example command"
+    default: true
