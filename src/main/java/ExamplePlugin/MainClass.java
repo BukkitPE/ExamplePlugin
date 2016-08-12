@@ -12,18 +12,18 @@ import java.io.IOException;
 import java.util.LinkedHashMap;
 
 /**
- * 
+ * BukkitPE Example Project
  */
 public class MainClass extends PluginBase {
 
     @Override
     public void onLoad() {
-        this.getLogger().info(TextFormat.WHITE + "I'm loaded!");
+        this.getLogger().info(TextFormat.WHITE + "I''ve been loaded'");
     }
 
     @Override
     public void onEnable() {
-        this.getLogger().info(TextFormat.DARK_GREEN + "YAY i'm enable");
+        this.getLogger().info(TextFormat.DARK_GREEN + "I've been enabled");
 
         this.getLogger().info(String.valueOf(this.getDataFolder().mkdirs()));
 
@@ -55,7 +55,7 @@ public class MainClass extends PluginBase {
 
     @Override
     public void onDisable() {
-        this.getLogger().info(TextFormat.DARK_RED + "I'm disable :(");
+        this.getLogger().info(TextFormat.DARK_RED + "I'm disable :( why??");
     }
 
     @Override
